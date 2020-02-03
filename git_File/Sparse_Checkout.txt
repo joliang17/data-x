@@ -1,2 +1,3 @@
 git config core.sparsecheckout true
 git read-tree -mu HEAD
+git checkout master
