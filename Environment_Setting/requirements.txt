@@ -2,3 +2,5 @@ numpy
 pandas
 okpy
 matplotlib
+otter-grader
+scikit-learn
