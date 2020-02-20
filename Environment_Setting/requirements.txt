@@ -4,3 +4,4 @@ okpy
 matplotlib
 otter-grader
 scikit-learn
+scipy
