@@ -1,0 +1,6 @@
+https://grablab.org/docs/#grab-spider-user-manual
+https://bleach.readthedocs.io/en/latest/
+https://pythonhosted.org//pyquery/
+https://github.com/dreid/treq
+https://github.com/scrapinghub/portia
+https://github.com/venomous/cloudscraper
